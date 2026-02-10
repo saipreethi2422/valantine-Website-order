@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+.bg1 {
+    background-color: #ffe6f0;
+}
+
+.bg2 {
+    background: linear-gradient(to right, #ff758f, #ff7eb3);
+    color: white;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 18px;
+}
+
+button {
+    background-color: #ff4d6d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin: 15px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+.heart {
+    font-size: 120px;
+    margin: 20px;
+}
+
+.italian {
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+}
+
+.product {
+    background: white;
+    margin: 15px auto;
+    padding: 15px;
+    width: 250px;
+    border-radius: 10px;
+    font-size: 20px;
+}
